@@ -1,57 +1,34 @@
 ---
-sidebar_position: 2
+sidebar_position:  2
 ---
 
+  
 # Applying
+  
+You can either apply via [Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london) or [University Of London](https://www.london.ac.uk/study/courses/undergraduate/bsc-computer-science#apply) site, don't forget that the applications are usually open at these months:
 
-Documents are **groups of pages** connected through:
+- April Cohort: **December to March**
+- October Cohort:  **June to September**
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+(*Usually the application deadline is extended, but it's better to apply as soon as you can*).
 
-## Create your first Doc
+## Process and fees
 
-Create a Markdown file at `docs/hello.md`:
+ To apply for this programme you will be required to pay a **£107 non-refundable** application fee.
 
-```md title="docs/hello.md"
-# Hello
+The application process it's easy to follow and it's nothing more than a form with multiple pages, just make sure that you will:
 
-This is my **first Docusaurus document**!
-```
+- Have the rights documents (Birth certificate, passport or national identification card)
+- Have the english certification/proficiency test (APTIS, Duolingo, IELTS, TOEFL & others)
+- Have transcripts for direct acces or **Recognition of Prior Learning**
+- Give your real information (Address, full name, birth date & etc.)
 
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
+After completing and have your payment confirmed by *UoL*, you just need to wait (days or weeks) for a response via e-mail.
 
-## Configure the Sidebar
+## Post application
 
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
+After you receive your response you will know which pathway you will need to go through:
 
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+- **Direct/General Admission** or **PBA (Performance-Based Admission)**
+  
+This will differ how you will start the programme, the only difference is that on the first term/semester, you can only register to 2 (two) modules and you’ll also need to achieve a pass (40% weighted average or higher) in *Introduction to Programming I* and either *Computational* or *Discrete Mathematics* to remain on the course.
