@@ -10,6 +10,12 @@ Now that you're a UoL student, it's time to choose your modules and pay for it. 
 
 ## Choosing modules
 
+:::tip Save money before beginning
+
+You can save the money for the module **How Computer Works** by doing the [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support) on Coursera, you just need to finish the course and apply for the ***RPL***. Click [here](https://www.coursera.org/professional-certificates/google-it-support) to know more about recognition of prior learning.
+
+:::
+
 This will be your first term/semester, so you'll only be able to choose from the level 4 compulsory modules, which are:
 
 - Introduction to programming I *
