@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d14c50b9-c5ce-4121-b8a6-a57a49cbcde0/deploy-status)](https://app.netlify.com/sites/uol-cs-docs/deploys)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
