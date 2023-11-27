@@ -5,30 +5,30 @@ sidebar_position:  1
   
 # Data Science
   
-You can either apply via [Coursera](https://www.coursera.org/degrees/bachelor-of-science-computer-science-london) or [University Of London](https://www.london.ac.uk/study/courses/undergraduate/bsc-computer-science#apply) site, don't forget that the applications are usually open at these months:
+New data is being produced at an exceptionally fast rate across the world. It’s the role of data scientists to make sense of this information and create accurate predictions, treatments and services tailored to individuals.
 
-- April Cohort: **December to March**
-- October Cohort:  **June to September**
+Data science is a significant subfield in computer science which has seen rapid growth in recent years as companies and institutions have begun to gather data at scale across many sectors. Data science has many application areas ranging from medicine to climate science and business analytics.
 
-(*Usually the application deadline is extended, but it's better to apply as soon as you can*).
+**By studying this degree you will:**
 
-## Process and fees
-
- To apply for this programme you will be required to pay a **£107 non-refundable** application fee.
-
-The application process it's easy to follow and it's nothing more than a form with multiple pages, just make sure that you will:
-
-- Have the rights documents (Birth certificate, passport or national identification card)
-- Have the english certification/proficiency test (APTIS, Duolingo, IELTS, TOEFL & others)
-- Have transcripts for direct acces or **Recognition of Prior Learning**
-- Give your real information (Address, full name, birth date & etc.)
-
-After completing and have your payment confirmed by *UoL*, you just need to wait (days or weeks) for a response via e-mail.
-
-## Post application
-
-After you receive your response you will know which pathway you will need to go through:
-
-- **Direct/General Admission** or **PBA (Performance-Based Admission)**
+- develop the necessary skills to be a data scientist. This will include learning about artificial intelligence, data analytics and machine learning.
   
-This will differ how you will start the programme, the only difference is that on the first term/semester, you can only register to 2 (two) modules and you’ll also need to achieve a pass (40% weighted average or higher) in *Introduction to Programming I* and either *Computational* or *Discrete Mathematics* to remain on the course.
+## Specialism structure
+
+To gain a BSc in Computer Science (Data Science), you complete modules to a value of 360 credits.
+
+This includes:
+**8** compulsory modules at Level 4  
+**8** compulsory modules at Level 5  
+**6** elective modules from Level 6.
+
+You must also complete a Final Project.
+
+### Required elective modules
+
+- Data science
+- Databases and advanced data techniques
+- Machine learning and neural networks
+- Advanced web development
+- Natural language processing
+- and one other module from the list of elective modules.
