@@ -70,12 +70,18 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          // {
+          //   href: 'https://github.com/my-uol/uol-cs-docs',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
           {
-            href: 'https://github.com/my-uol/uol-cs-docs',
-            label: 'GitHub',
-            position: 'right',
-          },
+            to: '#',
+            position: 'left',
+            label: 'Week 8',
+            className: 'buttonWeek',
+          }
         ],
       },
       footer: {
@@ -95,21 +101,17 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/kjK5p9dtft',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/my-uol/uol-cs-docs',

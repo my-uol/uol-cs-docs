@@ -28,3 +28,17 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.buttonWeek {
+  background-color: #205d3b;
+  border-radius: 20px;
+  color: #fff;
+  cursor: unset;
+}
+
+.buttonWeek:hover {
+  background-color: #205d3b;
+  border-radius: 20px;
+  color: #fff;
+  cursor: unset;
+}
