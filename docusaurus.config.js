@@ -6,6 +6,8 @@
 
 import {themes as prismThemes} from 'prism-react-renderer';
 
+
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'UoL CS Docs',
@@ -81,6 +83,12 @@ const config = {
             position: 'left',
             label: 'Week 8',
             className: 'buttonWeek',
+          },
+          {
+            to: '#',
+            position: 'left',
+            label: `${new Date().toLocaleDateString("en-GB")}`,
+            className: 'currentDate',
           }
         ],
       },
