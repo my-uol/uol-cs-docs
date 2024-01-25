@@ -79,7 +79,7 @@ const config = {
           {
             to: "#",
             position: "left",
-            label: "Week 8",
+            label: "Week 16",
             className: "buttonWeek",
           },
           {
