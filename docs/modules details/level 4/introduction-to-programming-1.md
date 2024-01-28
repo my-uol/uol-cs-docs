@@ -5,7 +5,7 @@ sidebar_position:  1
   
 # Introduction to programming I
   
-Level 4 modules are composed by 8 **compulsory** modules, which are:
+By taking this module, you will learn how to use the basic elements of computer programming such as variables, conditionals, functions and loops. You will also learn how to create interactive, graphical computer programs. You will also be introduced to basic object-oriented programming techniques.
 
 ### Modules
 
