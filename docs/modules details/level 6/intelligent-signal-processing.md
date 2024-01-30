@@ -6,35 +6,19 @@ sidebar_position:  13
 
 # Intelligent Signal Processing
   
-Level 6 modules are composed by 13 elective modules, whre the student shall choose 6 (six), which are:
+This module builds on other topics in the computer science programme such as computer graphics, data representation and artificial intelligence. It provides you with an advanced skill set for writing computer programs that can work with a range of digital signals.
 
-### Modules
+This module aims to provide you with a broad experience of digital signal processing techniques and applications. You will study how audio and video signals can be captured and processed by a computer program.
 
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Data Science**  | DS | CM3005|15
-|**Databases and Advanced Data Techniques**  | DADT| CM3010|15
-|**Machine Learning and Neural Networks**  | MLNN| CM3015|15
-|**Artificial Intelligence**  | AI| CM3020|15
-|**Virtual Reality** | VR| CM3025|15
-|**Games Development**  | GD| CM3030| 15
-|**Advanced Web Development** | AWD| CM3035|15
-|**Physical Computing and Internet of Things**  | IOT| CM3040|15
-|**3D Graphics and Animation**  | 3DGA| CM3045|15
-|**Mobile Development**  | MD| CM3050|15
-|**Interaction Design**  | ID| CM3055|15
-|**Natural Language Processing**  | NLP| CM3060|15
-|**Intelligent Signal Processing**  | ISP| CM3065|15
+:::info[credits]
 
+15 Credits (150 hours)
 
+:::
 
+### Assessment
 
-### Observation
-
-**3DGA, AI, DS, DADT, ID and NLP *have written examinations.***
-
-**Games Development *have a group project*.**
-
-## Specialism
-
-The specialism is a set of modules that you choose to study in depth to develop a specific skill. Learn more about the specialisms [here](/docs/category/specialisms).
+|Type       |Weight|
+|-----------|------|
+|Coursework I  |50%   |
+|Coursework II |50%   |
