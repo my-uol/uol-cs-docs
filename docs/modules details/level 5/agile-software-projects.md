@@ -5,36 +5,29 @@ sidebar_position:  5
 ---
 
 # Agile Software Projects
+
+:::danger[PLEASE NOTE]
+
+Agile Software Projects will run for the last time in October 2024. No further registrations will be accepted on this module after October 2024. The last opportunity to sit the assessment for this module will be October 2025. Module ‘Professional Practice for Computer Scientists’ will replace Agile Software Projects and will run for the first time in April 2025.
+
+:::
   
-Level 6 modules are composed by 13 elective modules, whre the student shall choose 6 (six), which are:
+This module aims to provide insights and practice in software development using contemporary methods to produce software that meets the needs of users and supports an organisation’s business function. The module will enable you to gain competence in the conceptualisation of a technology-based solution to a real-world problem, fulfilling the requirements of users and taking constraints imposed by the prevailing and foreseen market conditions and lessons learned from prototypes into account. 
 
-### Modules
-
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Data Science**  | DS | CM3005|15
-|**Databases and Advanced Data Techniques**  | DADT| CM3010|15
-|**Machine Learning and Neural Networks**  | MLNN| CM3015|15
-|**Artificial Intelligence**  | AI| CM3020|15
-|**Virtual Reality** | VR| CM3025|15
-|**Games Development**  | GD| CM3030| 15
-|**Advanced Web Development** | AWD| CM3035|15
-|**Physical Computing and Internet of Things**  | IOT| CM3040|15
-|**3D Graphics and Animation**  | 3DGA| CM3045|15
-|**Mobile Development**  | MD| CM3050|15
-|**Interaction Design**  | ID| CM3055|15
-|**Natural Language Processing**  | NLP| CM3060|15
-|**Intelligent Signal Processing**  | ISP| CM3065|15
+You will be given the opportunity to present a proposal for a technical project including a structured plan for implementing the solution using the agile development methodology and test driven development practices. During the whole process from concept to solution presentation, you will be required to work in a distributed team using online collaboration, project tracking and version control tools.
 
 
 
 
-### Observation
+:::info[credits]
 
-**3DGA, AI, DS, DADT, ID and NLP *have written examinations.***
+15 Credits (150 hours)
 
-**Games Development *have a group project*.**
+:::
 
-## Specialism
+### Assessment
 
-The specialism is a set of modules that you choose to study in depth to develop a specific skill. Learn more about the specialisms [here](/docs/category/specialisms).
+|Type       |Weight|
+|-----------|------|
+|Coursework I  |30%   |
+|Coursework II |70%   |
