@@ -4,25 +4,19 @@ sidebar_position:  2
 
 # Software Design and Development
   
-Level 5 modules are composed by 8 **compulsory** modules, which are:
+This module aims to advance your software development skills so that you can write more robust and complicated programs. You will learn how to use a range of programming techniques that will allow you to deal with unwanted or unexpected events that might happen when your application is running. 
 
-### Modules
+You will use defensive coding to check data before processing it, and exception handling to gracefully manage unforeseen or unwanted occurrences. You will learn how to discuss program structure concerning cohesion (how to meaningfully organise code into modules) and coupling (how to define the interactions between different parts of the program). You will learn about test-driven development, where you write tests for your code, and write the code itself, in parallel. You will also learn how to use software versioning tools to manage a software project as it develops.
 
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Object Oriented Programming**  | OOP| CM2005|15
-|**Software Design and Development**  | SDD| CM2010|15
-|**Programming with Data**  | PWD | CM2015|15
-|**Databases, Networks and the Web**  | DNW| CM2040|15
-|**Agile Software Projects** | ASP | CM2020 |15
-|**Computer Security**  | CSec| CM2025 | 15
-|**Graphics Programming** | GP| CM2030 |15
-|**Algorithms and Data Structures II**  | ADS2| CM2035 |15
+:::info[credits]
 
+15 Credits (150 hours)
 
+:::
 
-### Observation
+### Assessment
 
-**ADS2, CSec, DNW, PWD and SDD *have written examinations.***
-
-**Agile Software Projects *have a group project*.**
+|Type       |Weight|
+|-----------|------|
+|Coursework  |50%   |
+|Examination |50%   |

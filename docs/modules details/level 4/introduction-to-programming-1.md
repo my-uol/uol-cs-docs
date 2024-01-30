@@ -4,25 +4,19 @@ sidebar_position:  1
 
   
 # Introduction to programming I
-  
-Level 4 modules are composed by 8 **compulsory** modules, which are:
+This module is focused on basic programming techniques. 
 
-### Modules
+By taking this module, you will learn how to use the basic elements of computer programming such as variables, conditionals, functions and loops. You will also learn how to create interactive, graphical computer programs. You will also be introduced to basic object-oriented programming techniques.
 
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Introduction to programming I**  | ITP1| CM1005 |15
-|**Introduction to programming II**  | ITP2 | CM1010 |15
-|**Computational Mathematics**  | CM | CM1015 |15
-|**Discrete Mathematics** | DM | CM1020 |15
-|**How Computers Work**  | HWC | CM1030 | 15
-|**Fundamentals of Computer Science** | FCS| CM1025|15
-|**Web Development**  | WD | CM1040|15
-|**Algorithms and Data Structures I**  | ADS1 | CM1035|15
+:::info[credits]
 
+15 Credits (150 hours)
 
-### Observation
+:::
 
-**ADS1, CM, DM, FCS, HCW *have written examinations.***
+### Assessment
 
-**Web Development *have a group project*.**
+|Type       |Weight|
+|-----------|------|
+|Coursework I |50%   |
+|Coursework II|50%   |

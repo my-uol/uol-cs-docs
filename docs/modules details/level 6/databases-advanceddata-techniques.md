@@ -4,25 +4,47 @@ sidebar_position:  2
 
 # Databases and Advanced Data Techniques
   
-Level 5 modules are composed by 8 **compulsory** modules, which are:
+By taking this module, you will gain a data science skillset. Databases and data services form the basis of many of the computer systems we use today.
 
-### Modules
+This module builds on data concepts and skills from previous modules, providing advanced level knowledge about working with data in computers. computer programs that can read, process and analyse textual and numerical data.
 
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Object Oriented Programming**  | OOP| CM2005|15
-|**Software Design and Development**  | SDD| CM2010|15
-|**Programming with Data**  | PWD | CM2015|15
-|**Databases, Networks and the Web**  | DNW| CM2040|15
-|**Agile Software Projects** | ASP | CM2020 |15
-|**Computer Security**  | CSec| CM2025 | 15
-|**Graphics Programming** | GP| CM2030 |15
-|**Algorithms and Data Structures II**  | ADS2| CM2035 |15
+### Topics Covered
 
+-   Open data sources: different data formats
+-   Gathering and cleaning data
+-   The ethics of working with data
+-   SQL: advanced data representation
+-   SQL: advanced queries and linking
+-   NoSQL and document stores
+-   NoSQL and data pipelines
+-   Speeding up queries with indexes
+-   Audio and video data
+-   Data security
 
+_The topics listed here are indicative and may be slightly revised._
 
-### Observation
+### Learning Outcomes
 
-**ADS2, CSec, DNW, PWD and SDD *have written examinations.***
+-   Devise and explain an appropriate representation of data in an SQL RDBMS
+-   Write advanced SQL queries to read and write data from an SQL database
+-   Write data to a NoSQL database and selectively read data from a NoSQL database using filters
+-   Read data from various file formats and databases and prepare it for use in a computer program using data processing techniques
+-   Discuss key issues relating to the ethics of working with data and data security
+-   Understand the challenges of working with audio and video data
 
-**Agile Software Projects *have a group project*.**
+:::info[credits]
+
+15 Credits (150 hours)
+
+:::
+
+### Assessment
+
+|Type       |Weight|
+|-----------|------|
+|Coursework   |50%   |
+|Examination |50%   |
+
+The coursework comprises four assignments, each designed to take 6-7 hours to complete. The assignments will be a mixture of theoretical questions and short programming exercises.
+
+The exam will be 2 hours long, computer-based and consist of a mixture of quiz questions with short answers and longer questions that may require discursive answers and/or some amount of programming.

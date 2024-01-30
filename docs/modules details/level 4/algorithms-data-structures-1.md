@@ -6,35 +6,21 @@ sidebar_position:  8
 
 # Algorithms and Data Structures I
   
-Level 6 modules are composed by 13 elective modules, whre the student shall choose 6 (six), which are:
+This module aims to help you to develop your analytical and problem-solving skills, particularly concerning thinking algorithmically. The module will encourage you to start thinking about how to use computers to solve problems. You will develop skills in thinking algorithmically and learn the central concepts of algorithms and data structures. 
 
-### Modules
+You will learn about linear data structures such as arrays, vectors and lists, and a unifying framework for considering such data structures as collections. You will learn how algorithms can be expressed as flowcharts and pseudocode, and how to convert these expressions into running programs.
 
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Data Science**  | DS | CM3005|15
-|**Databases and Advanced Data Techniques**  | DADT| CM3010|15
-|**Machine Learning and Neural Networks**  | MLNN| CM3015|15
-|**Artificial Intelligence**  | AI| CM3020|15
-|**Virtual Reality** | VR| CM3025|15
-|**Games Development**  | GD| CM3030| 15
-|**Advanced Web Development** | AWD| CM3035|15
-|**Physical Computing and Internet of Things**  | IOT| CM3040|15
-|**3D Graphics and Animation**  | 3DGA| CM3045|15
-|**Mobile Development**  | MD| CM3050|15
-|**Interaction Design**  | ID| CM3055|15
-|**Natural Language Processing**  | NLP| CM3060|15
-|**Intelligent Signal Processing**  | ISP| CM3065|15
+You will learn specific algorithms used for sorting and searching, and how to express repetition as iteration and recursion. You will learn a simple model for execution of computation, and how to describe computational problems and their solutions. The model will allow you to compare algorithms regarding their correctness and regarding their efficiency.
 
+:::info[credits]
 
+15 Credits (150 hours)
 
+:::
 
-### Observation
+### Assessment
 
-**3DGA, AI, DS, DADT, ID and NLP *have written examinations.***
-
-**Games Development *have a group project*.**
-
-## Specialism
-
-The specialism is a set of modules that you choose to study in depth to develop a specific skill. Learn more about the specialisms [here](/docs/category/specialisms).
+|Type       |Weight|
+|-----------|------|
+|Coursework |50%   |
+|Examination |50%   |
