@@ -3,26 +3,20 @@ sidebar_position:  2
 ---
 
 # Introduction to programming II
-  
-Level 5 modules are composed by 8 **compulsory** modules, which are:
 
-### Modules
+This module is focused on adding to the basic programming skill set you developed in Introduction to Programming I and giving you experience working with existing code and third-party libraries. 
 
-|Module Name  | Abbreviation | Code | Credits
-|--|--|--|--|
-|**Object Oriented Programming**  | OOP| CM2005|15
-|**Software Design and Development**  | SDD| CM2010|15
-|**Programming with Data**  | PWD | CM2015|15
-|**Databases, Networks and the Web**  | DNW| CM2040|15
-|**Agile Software Projects** | ASP | CM2020 |15
-|**Computer Security**  | CSec| CM2025 | 15
-|**Graphics Programming** | GP| CM2030 |15
-|**Algorithms and Data Structures II**  | ADS2| CM2035 |15
+By taking this module, you will learn how to customise existing code, to implement basic object orientation and to work with a range of third-party libraries.
 
+:::info[credits]
 
+15 Credits (150 hours)
 
-### Observation
+:::
 
-**ADS2, CSec, DNW, PWD and SDD *have written examinations.***
+### Assessment
 
-**Agile Software Projects *have a group project*.**
+|Type       |Weight|
+|-----------|------|
+|Coursework I |30%   |
+|Coursework II|70%   |
