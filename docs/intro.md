@@ -3,8 +3,9 @@ sidebar_position:  1
 ---
 
 # Introduction
-
-![UKBALL](https://i.imgur.com/FFztP4q.png)
+<p align="center">
+    <img src="https://i.imgur.com/OZWxhZg.png" alt="My UoL Logo" width="200"/>
+</p>
 
 The **University of London online Computer Science degree** is super cool for anyone who wants to dive into the world of tech, but needs the flexibility of studying online. It's packed with fun and challenging stuff like coding, designing systems, and figuring out data puzzles. Plus, *UoL* is known for mixing creativity with tech, so you're not just learning the usual stuff – you're learning how to think outside the box and solve problems in cool, creative ways. Perfect for balancing life, work, or whatever else you've got going on!
   
