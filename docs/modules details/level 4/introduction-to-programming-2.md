@@ -20,3 +20,12 @@ By taking this module, you will learn how to customise existing code, to impleme
 |-----------|------|
 |Coursework I |30%   |
 |Coursework II|70%   |
+
+### Assesment Details
+
+|Activity       |Required|Deadline Week|Estimated TpW* |% of final grade |
+|-----------|------|-|-|-|
+|Interim Progress |Yes   |12|1-2 Hours| 30% |
+|Final Project Submission |Yes   |20|2 Hours| 70% |
+
+\* **TpW**: *Time per Week*
