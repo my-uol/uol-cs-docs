@@ -20,3 +20,14 @@ By taking this module, you will learn how to use the basic elements of computer 
 |-----------|------|
 |Coursework I |50%   |
 |Coursework II|50%   |
+
+### Assesment Details
+
+|Activity       |Required|Deadline Week|Estimated TpW* |% of final grade |
+|-----------|------|-|-|-|
+|Sleuth Rookie Stage |Yes   |1-10|1-2 Hours| 25% |
+|The Game Project (Parts 1 - 4) |Yes   |12|2 Hours| 25% |
+|Sleuth Pro Stage |Yes   |22|1-2 Hours| 25% |
+|The Game Project (Parts 1 - 4) |Yes   |22| 2 Hours| 25% |
+
+\* **TpW**: *Time per Week*
